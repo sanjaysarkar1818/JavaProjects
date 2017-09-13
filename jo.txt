@@ -1,7 +1,1 @@
-ABC
-<<<<<<< HEAD
-Jai mata Di :)
-=======
-hello
-heh
->>>>>>> Iphone X
+Java
