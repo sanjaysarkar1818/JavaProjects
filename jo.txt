@@ -1,2 +1,7 @@
 
+<<<<<<< HEAD
 Jai mata Di :)
+=======
+hello
+heh
+>>>>>>> 9244df21b38f9289f6f3c9d3577f8aa482655ec1
